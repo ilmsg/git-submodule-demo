@@ -1,0 +1,4 @@
+[submodule "src/crud"]
+	path = src/crud
+	url = https://github.com/nestjsx/crud.git
+	branch = master
